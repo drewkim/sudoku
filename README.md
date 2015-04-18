@@ -2,4 +2,4 @@
 
 A graphical implementation of Sudoku.
 
-Made using JFrame for ATCS 2014.
+Made using JFrame for ATCS in 2014.
